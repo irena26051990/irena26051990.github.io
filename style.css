@@ -12,6 +12,6 @@
 }
 .box:hover{
 background-color:aquamarine;
-transform:scale (1.5)
+transform:scale (1.5);
 cursor: pointer;
 }
