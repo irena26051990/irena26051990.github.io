@@ -1,0 +1,17 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.box{
+	width: 20vw;
+	height: 20vh;
+	background-color: red;
+	margin: 40vh auto;
+	transition: 1s;
+}
+.box:hover{
+background-color:aquamarine;
+transform:scale (1.5)
+cursor: pointer;
+}
